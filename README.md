@@ -125,3 +125,6 @@ For support, please open an issue in the GitHub repository or contact the develo
 <div align="center">
 Made with ❤️ by the AlgoForge Team
 </div>
+
+The below is the link to the video of the project :
+https://drive.google.com/file/d/1Bv2-ueE--G32h9UDbozPDFAlLbaeYVYW/view?usp=sharing
